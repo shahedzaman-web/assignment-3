@@ -87,7 +87,7 @@ function megaFriend(friendName) {
 }
 
 
-console.log(megaFriend(["Shahed", "Zaman", "Rifat", "Araf"]));
-console.log(megaFriend(["ab", "a", "abcd"]));
+// console.log(megaFriend(["Shahed", "Zaman", "Rifat", "Araf"]));
+// console.log(megaFriend(["ab", "a", "abcd"]));
 
 //                                 Mega Friend Problem
